@@ -29,9 +29,9 @@ As a research intern at **Caltech’s Anderson Lab (Chen Institute of Neuroscien
 ## 3) Yale Research
 
 **Description:**  
-At Yale, I’ve been involved in two major research directions:  
+At Yale, I’ve been involved in two research labs:  
 
-1. **Saxena Lab – Wu Tsai Undergraduate Fellow**  
+1. **Saxena Lab – Wu Tsai Undergraduate Fellow** (Current Lab)
    - Utilizing **multi-agent reinforcement learning** to model cooperative behavior in rats.  
    - Research explores the effects of early-life stress on social cooperation.  
    - **GitHub:** [A Computational Framework for Studying Social Cooperation in Rats](https://github.com/Davimeleon/A-Computational-Framework-for-Studying-Social-Cooperation-in-Rats)  
