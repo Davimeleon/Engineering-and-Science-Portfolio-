@@ -9,7 +9,7 @@ Welcome to my portfolio! This repository highlights a selection of my most meani
 **Description:**  
 Inspired by Harry Potter, I built, designed, and programmed a self-moving chessboard from scratch. The project uses a **CoreXY architecture**, **Arduino microcontrollers**, and **electromagnets** to move chess pieces automatically. I integrated sensors to track piece positions, as well as speech recognition and voice feedback to allow completely hands-free play.  
 
-- **Video Demo:** [Download ZIP](./Compressed_MakerPortfolioGeneral.mp4)  
+- **Video Demo:** [Download Maker Portfolio](./Compressed_MakerPortfolioGeneral.mp4)  
 - **Skills Applied:** Arduino (C++), electromagnetics, soldering, CAD, embedded systems, CoreXY motion control  
 
 ---
@@ -19,7 +19,7 @@ Inspired by Harry Potter, I built, designed, and programmed a self-moving chessb
 **Description:**  
 As a research intern at **Caltech’s Anderson Lab (Chen Institute of Neuroscience)**, I investigated the physiological correlates of emotional states in mice. I programmed a **thermography camera**, developed CAD hardware, and ran experiments studying how optogenetic stimulation of aggression or fear affected thermoregulatory responses. My independent work revealed a novel correlation between aggression and body temperature, validating the expression “hot-headed.”  
 
-- **Research Portfolio:** [Download PDF](./Caltech_ResearchPortfolio_NotComplete.pdf)  
+- **Research Portfolio:** [Download Research Portfolio](./Caltech_ResearchPortfolio_NotComplete.pdf)  
 - **ISEF Poster:** [Download Poster](./isef_poster.pdf)  
 - **Publication:** [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11535150/)  
 - **GitHub Repo:** [Hot-Button-Camera](https://www.github.com/Davimeleon/Hot-Button-Camera)  
