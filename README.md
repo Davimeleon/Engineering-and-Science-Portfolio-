@@ -17,7 +17,7 @@ Inspired by Harry Potter, I built, designed, and programmed a self-moving chessb
 ## 2) Caltech Neuroscience Research
 
 **Description:**  
-As a research intern at **Caltech’s Anderson Lab (Chen Institute of Neuroscience)**, I investigated the physiological correlates of emotional states in mice. I programmed a **thermography camera**, developed CAD hardware, and ran experiments studying how optogenetic stimulation of aggression or fear affected thermoregulatory responses. My independent work revealed a novel correlation between aggression and body temperature, validating the expression “hot-headed.”  
+As a research intern at **Caltech’s Anderson Lab (Chen Institute of Neuroscience)**, I investigated the physiological correlates of emotional states in mice. I programmed a **thermography camera**, developed CAD hardware, and ran experiments studying how optogenetic stimulation of aggression or fear affected thermoregulatory responses. My independent work revealed a novel correlation between aggression and body temperature, validating the expression “hot-headed.” We are expected to publish a paper soon. 
 
 - **Research Portfolio:** [Download Research Portfolio](./Caltech_ResearchPortfolio_NotComplete.pdf)  
 - **ISEF Poster:** [Download Poster](./isef_poster.pdf)  
