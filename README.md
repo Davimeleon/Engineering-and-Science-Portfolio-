@@ -63,6 +63,6 @@ Through NASA’s **STEM Enhancement in Earth Science (SEES)** program, I contrib
 
 - **Email:** david.backerperal@yale.edu  
 - **GitHub:** [github.com/Davimeleon](https://github.com/Davimeleon)  
-- **LinkedIn:** (Add link if you’d like)  
+- **LinkedIn:** https://www.linkedin.com/in/david-backer-peral-258393276/
 
 ---
